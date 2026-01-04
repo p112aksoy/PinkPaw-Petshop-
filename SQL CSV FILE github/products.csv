@@ -1,0 +1,45 @@
+id;description;details;featured;image_url;name;price;category;type
+1;High quality dry food for cats;Rich in protein 500gr;True;/images/cat1.jpeg;Cat Food;12,99;Cat       ;Food      
+2;High quality dry food for cats;Rich in protein 1kg;True;/images/cat2.jpeg;Cat Food;24,99;Cat       ;Food      
+3;Tasty dog snacks With Beef;Perfect for training 1kg;True;/images/dog1.jpeg;Dog Food;18,99;Dog       ;Food      
+4;Tasty dog snacks With Beef;Perfect for training 2kg;False;/images/dog2.jpeg;Dog Treats;7,99;Dog       ;Treats    
+5;High quality dry food for cats;Rich in protein 2kg;True;/images/cat3.jpeg;Cat Food;32,55;Cat       ;Food      
+7;Healthy Tasty Treats;Balanced Nutrition 5kg;True;/images/cat4.jpeg;Cat Treats;24,95;Cat       ;Treats    
+10;Healthy Tasty Treats;Balanced Nutrition 1kg;True;/images/cat5.jpeg;Cat Treats;10,95;Cat       ;Treats    
+11;Healthy Tasty Treats;Balanced Nutrition 50gr;True;/images/cat6.jpeg;Cat Treats;6,95;Cat       ;Treats    
+12;Tasty Wet Cat Food With Salmon;High moisture food;True;/images/cat7.jpeg;Cat Food;20,99;Cat       ;Food      
+13;Tasty Wet Cat Food With Chicken;High moisture food;True;/images/cat8.jpeg;Cat Food;20,99;Cat       ;Food      
+15;Healthy Tasty Treats With Stick Bites;Balanced Nutrition 50gr;True;/images/cat9.jpeg;Cat Treats;12,25;Cat       ;Treats    
+17;Healthy Tasty Treats With Fish Oil;Balanced Nutrition 60ml;True;/images/cat10.jpeg;Cat Treats;15,55;Cat       ;Treats    
+19;Healthy Immunity Support;Balanced Nutrition 60ml;True;/images/cat11.jpeg;Cat Treats;15,55;Cat       ;Treats    
+21;Tasty dog snacksWith Beef;Perfect for training 5kg;True;/images/dog3.jpeg;Dog Food;35,99;Dog       ;Food      
+23;Tasty training reward;Healthy snack Treat 100gr;False;/images/dog4.jpeg;Dog Treats;25,95;Dog       ;Treats    
+25;Tasty training reward With Salmon & Chicken;Healthy snack Treat 1kg;False;/images/dog5.jpeg;Dog Treats;27,95;Dog       ;Treats    
+27;Tasty training reward With Salmon & Chicken;Healthy snack Treat 5kg;False;/images/dog6.jpeg;Dog Treats;35,95;Dog       ;Treats    
+29;Nutritious wet food;Soft protein rich;False;/images/dog7.jpeg;Dog Food;22,99;Dog       ;Food      
+31;Tasty training reward With Stick;Healthy snack Treat 100gr;False;/images/dog8.jpeg;Dog Treats;12,99;Dog       ;Treats    
+33;Tasty training reward With Fish Oil;Healthy snack Treat 60ml;False;/images/dog9.jpeg;Dog Treats;7,99;Dog       ;Treats    
+35;Tasty training reward Serum;Healthy snack Treat 60ml;False;/images/dog10.jpeg;Dog Treats;7,99;Dog       ;Treats    
+37;Premium Vitamin Support;Healthy snack Treat 60 Tablets;False;/images/dog11.jpeg;Dog Treats;7,99;Dog       ;Treats    
+38;Adjustable dog collar leash;Secure comfortable fit;False;/images/dog12.jpeg;Dog Accessories;10,95;Dog       ;Accessories
+39;Personalized dog ID tag;Custom dog name;False;/images/dog13.jpeg;Dog Accessories;5,99;Dog       ;Accessories
+40;Engraved dog tag;Attach to collar;False;/images/dog14.jpeg;Dog Accessories;5,99;Dog       ;Accessories
+41;Non slip food bowl;Strong stainless material;False;/images/dog15.jpeg;Dog Accessories;13,95;Dog       ;Accessories
+42;Durable dog water bowl;Easy clean design;False;/images/dog16.jpeg;Dog Accessories;13,95;Dog       ;Accessories
+43;Cozy sleeping bed;Washable durable fabric;False;/images/dog17.jpeg;Dog Accessories;22,99;Dog       ;Accessories
+44;Comfortable stylish dog clothes;Soft breathable fabric;False;/images/dog18.jpeg;Dog Accessories;15,99;Dog       ;Accessories
+47;Comfortable stylish dog clothes;Soft breathable fabric;False;/images/dog21.jpeg;Dog Accessories;15,99;Dog       ;Accessories
+48;Fun interactive dog toy;Safe durable material;False;/images/dog19.jpeg;Dog Accessories;20,99;Dog       ;Accessories
+50;Fun interactive dog toy;Safe durable material;False;/images/dog20.jpeg;Dog Accessories;20,99;Dog       ;Accessories
+52;Adjustable cat collar leash;Secure comfortable fit;True;/images/cat12.jpeg;Cat Accessories;10,95;Cat       ;Accessories
+54;Personalized cat ID tag;Custom cat name;True;/images/cat13.jpeg;Cat Accessories;5,99;Cat       ;Accessories
+56;Engraved cat tag;Attach to collar;True;/images/cat14.jpeg;Cat Accessories;5,99;Cat       ;Accessories
+58;Non slip food bowl;Strong stainless material;True;/images/cat15.jpeg;Cat Accessories;13,95;Cat       ;Accessories
+60;Durable cat water bowl;Easy clean design;True;/images/cat16.jpeg;Cat Accessories;13,95;Cat       ;Accessories
+62;Comfortable stylish cat clothes;Soft breathable fabric;True;/images/cat17.jpeg;Cat Accessories;15,99;Cat       ;Accessories
+64;Comfortable stylish cat clothes;Soft breathable fabric;True;/images/cat18.jpeg;Cat Accessories;15,99;Cat       ;Accessories
+67;Comfortable stylish cat clothes;Soft breathable fabric;True;/images/cat19.jpeg;Cat Accessories;15,99;Cat       ;Accessories
+69;Cozy sleeping bed;Washable durable fabric;True;/images/cat20.jpeg;Cat Accessories;22,99;Cat       ;Accessories
+71;Fun interactive cat toy;Safe durable material;True;/images/cat21.jpeg;Cat Accessories;20,99;Cat       ;Accessories
+73;Fun interactive cat toy;Safe durable material;True;/images/cat22.jpeg;Cat Accessories;20,99;Cat       ;Accessories
+;;;;;;;;
